@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="food_name">Food Name</string>
+    <string name="food_details">Food Details</string>
+    <string name="cost">Cost</string>
+    <string name="estimated_time_minutes">Estimated Time (minutes)</string>
+    <string name="add_food_item">Add Food Item</string>
+</resources>
